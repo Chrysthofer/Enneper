@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="asm2mif" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/asm2mif" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="C:/FlexBison/GnuWin32/lib/libfl.a" />
+				</Linker>
+				<ExtraCommands>
+					<Add before="flex -oasm2mif.c asm2mif.l" />
+					<Add after=".\bin\Release\asm2mif.exe teste.asm" />
+					<Mode after="always" />
+				</ExtraCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="asm2mif.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eval.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eval.h" />
+		<Unit filename="labels.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="labels.h" />
+		<Unit filename="mnemonicos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mnemonicos.h" />
+		<Unit filename="t2t.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="t2t.h" />
+		<Unit filename="variaveis.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="variaveis.h" />
+		<Unit filename="veri_comp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="veri_comp.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

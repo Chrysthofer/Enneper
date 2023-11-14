@@ -1,0 +1,1661 @@
+# depslib dependency file v1.0
+1377279340 source:c:\users\luciano\desktop\myproc\2 - decodificador de instrucao\assembler\asm2mif.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1378939781 source:c:\users\luciano\desktop\myproc\firmware\2 - decodificador de instrucao\assembler\asm2mif.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"variaveis.h"
+	<stdlib.h>
+
+1378688443 source:c:\users\luciano\desktop\myproc\firmware\2 - decodificador de instrucao\assembler\lex.yy.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1378939458 c:\users\luciano\desktop\myproc\firmware\2 - decodificador de instrucao\assembler\variaveis.h
+
+1378939832 source:c:\users\luciano\desktop\myproc\firmware\2 - decodificador de instrucao\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1378939832 source:c:\users\luciano\desktop\myproc\projetos\2 - decodificador de instrucao\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1378939458 c:\users\luciano\desktop\myproc\projetos\2 - decodificador de instrucao\assembler\variaveis.h
+
+1378939832 source:c:\users\luciano\desktop\myproc\projetos\3 - memorias sincronas\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1378939458 c:\users\luciano\desktop\myproc\projetos\3 - memorias sincronas\assembler\variaveis.h
+
+1378939832 source:c:\users\luciano\desktop\myproc\projetos\teste\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1378939458 c:\users\luciano\desktop\myproc\projetos\teste\assembler\variaveis.h
+
+1379034452 source:c:\users\luciano\desktop\myproc\projetos\teste\assembler\fifo.c
+
+1379034452 source:c:\users\luciano\desktop\myproc\projetos\4 - controle de fluxo\assembler\fifo.c
+
+1379363076 source:c:\users\luciano\desktop\myproc\projetos\4 - controle de fluxo\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\myproc\projetos\4 - controle de fluxo\assembler\variaveis.h
+
+1379095939 source:c:\users\luciano\desktop\myproc\projetos\4 - controle de fluxo\assembler\label.c
+
+1379170197 source:c:\users\luciano\desktop\myproc\projetos\4 - controle de fluxo\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\myproc\projetos\4 - controle de fluxo\assembler\labels.h
+
+1379170197 source:c:\users\luciano\desktop\myproc\projetos\teste\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\myproc\projetos\teste\assembler\labels.h
+
+1379170197 source:c:\users\luciano\desktop\myproc\projetos\5 - pilha de dados\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\myproc\projetos\5 - pilha de dados\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\myproc\projetos\5 - pilha de dados\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\myproc\projetos\5 - pilha de dados\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\myproc\projetos\6 - generalizando o numero de bits\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\myproc\projetos\6 - generalizando o numero de bits\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\myproc\projetos\6 - generalizando o numero de bits\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\myproc\projetos\6 - generalizando o numero de bits\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\myproc\projetos\7 - subrotinas\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\myproc\projetos\7 - subrotinas\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\myproc\projetos\7 - subrotinas\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\myproc\projetos\7 - subrotinas\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\myproc\projetos\10 - pipeline com pilha de dados\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\myproc\projetos\10 - pipeline com pilha de dados\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\myproc\projetos\10 - pipeline com pilha de dados\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\myproc\projetos\10 - pipeline com pilha de dados\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\myproc\projetos\11 - pipeline com subrotinas\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\myproc\projetos\11 - pipeline com subrotinas\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\myproc\projetos\11 - pipeline com subrotinas\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\myproc\projetos\11 - pipeline com subrotinas\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\myproc\projetos\12 - pipeline com leitura e escrita simulatneas\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\myproc\projetos\12 - pipeline com leitura e escrita simulatneas\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\myproc\projetos\12 - pipeline com leitura e escrita simulatneas\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\myproc\projetos\12 - pipeline com leitura e escrita simulatneas\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\myproc\projetos\13 - pipeline generalizando o numero de bits\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\myproc\projetos\13 - pipeline generalizando o numero de bits\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\myproc\projetos\13 - pipeline generalizando o numero de bits\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\myproc\projetos\13 - pipeline generalizando o numero de bits\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\embarcados\exercicios\03 - controle de fluxo\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\embarcados\exercicios\03 - controle de fluxo\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\embarcados\exercicios\03 - controle de fluxo\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\embarcados\exercicios\03 - controle de fluxo\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\embarcados\exercicios\04 - pilha de dados\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\embarcados\exercicios\04 - pilha de dados\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\embarcados\exercicios\04 - pilha de dados\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\embarcados\exercicios\04 - pilha de dados\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\embarcados\exercicios\05 - generalizando o numero de bits\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\embarcados\exercicios\05 - generalizando o numero de bits\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\embarcados\exercicios\05 - generalizando o numero de bits\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\embarcados\exercicios\05 - generalizando o numero de bits\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\embarcados\exercicios\06 - subrotinas\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\embarcados\exercicios\06 - subrotinas\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\embarcados\exercicios\06 - subrotinas\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\embarcados\exercicios\06 - subrotinas\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\embarcados\exercicios\07 - pipeline basico\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\embarcados\exercicios\07 - pipeline basico\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\embarcados\exercicios\07 - pipeline basico\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\embarcados\exercicios\07 - pipeline basico\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\embarcados\exercicios\08 - pipeline com controle de fluxo\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\embarcados\exercicios\08 - pipeline com controle de fluxo\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\embarcados\exercicios\08 - pipeline com controle de fluxo\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\embarcados\exercicios\08 - pipeline com controle de fluxo\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\embarcados\exercicios\09 - pipeline com pilha de dados\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\embarcados\exercicios\09 - pipeline com pilha de dados\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\embarcados\exercicios\09 - pipeline com pilha de dados\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\embarcados\exercicios\09 - pipeline com pilha de dados\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\embarcados\exercicios\10 - enderecamento indireto\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\embarcados\exercicios\10 - enderecamento indireto\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\embarcados\exercicios\10 - enderecamento indireto\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\embarcados\exercicios\10 - enderecamento indireto\assembler\variaveis.h
+
+1379170197 source:c:\users\luciano\desktop\embarcados\exercicios\11 - pipeline com subrotina\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\embarcados\exercicios\11 - pipeline com subrotina\assembler\labels.h
+
+1379363076 source:c:\users\luciano\desktop\embarcados\exercicios\11 - pipeline com subrotina\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\embarcados\exercicios\11 - pipeline com subrotina\assembler\variaveis.h
+
+1381185954 source:c:\users\luciano\desktop\embarcados\exercicios\12 - pipeline generalizando\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379170323 c:\users\luciano\desktop\embarcados\exercicios\12 - pipeline generalizando\assembler\labels.h
+
+1381185914 source:c:\users\luciano\desktop\embarcados\exercicios\12 - pipeline generalizando\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1379363051 c:\users\luciano\desktop\embarcados\exercicios\12 - pipeline generalizando\assembler\variaveis.h
+
+1381189554 source:c:\users\luciano\desktop\embarcados\exercicios\13 - pipeline generalizando\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379173923 c:\users\luciano\desktop\embarcados\exercicios\13 - pipeline generalizando\assembler\labels.h
+
+1382709055 source:c:\users\luciano\desktop\embarcados\exercicios\13 - pipeline generalizando\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1382709011 c:\users\luciano\desktop\embarcados\exercicios\13 - pipeline generalizando\assembler\variaveis.h
+
+1381189554 source:c:\users\luciano\desktop\embarcados\exercicios\14 - io\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379173923 c:\users\luciano\desktop\embarcados\exercicios\14 - io\assembler\labels.h
+
+1382709055 source:c:\users\luciano\desktop\embarcados\exercicios\14 - io\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1382709011 c:\users\luciano\desktop\embarcados\exercicios\14 - io\assembler\variaveis.h
+
+1386859282 source:c:\users\luciano\desktop\embarcados\exercicios\15 - ponto flutuante\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1386849273 c:\users\luciano\desktop\embarcados\exercicios\15 - ponto flutuante\assembler\labels.h
+
+1387029307 source:c:\users\luciano\desktop\embarcados\exercicios\15 - ponto flutuante\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1387029351 c:\users\luciano\desktop\embarcados\exercicios\15 - ponto flutuante\assembler\variaveis.h
+
+1381189556 source:c:\users\luciano\desktop\15 - ponto flutuante\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1379173924 c:\users\luciano\desktop\15 - ponto flutuante\assembler\labels.h
+
+1383700308 source:c:\users\luciano\desktop\15 - ponto flutuante\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1383700324 c:\users\luciano\desktop\15 - ponto flutuante\assembler\variaveis.h
+
+1387209230 source:c:\users\luciano\desktop\embarcados\exercicios\15 - ponto flutuante\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1387209106 c:\users\luciano\desktop\embarcados\exercicios\15 - ponto flutuante\assembler\t2t.h
+
+1387029949 source:c:\users\luciano\desktop\embarcados\exercicios\15 - ponto flutuante\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1387026402 c:\users\luciano\desktop\embarcados\exercicios\15 - ponto flutuante\assembler\eval.h
+
+1387053496 source:c:\users\luciano\desktop\embarcados\exercicios\15 - ponto flutuante\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1387030546 c:\users\luciano\desktop\embarcados\exercicios\15 - ponto flutuante\assembler\veri_comp.h
+
+1387026350 source:c:\users\eder\desktop\61_nova_subsituicao_proc_float\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1387022804 c:\users\eder\desktop\61_nova_subsituicao_proc_float\assembler\eval.h
+
+1387205508 c:\users\eder\desktop\61_nova_subsituicao_proc_float\assembler\t2t.h
+
+1387025752 c:\users\eder\desktop\61_nova_subsituicao_proc_float\assembler\variaveis.h
+
+1386845674 c:\users\eder\desktop\61_nova_subsituicao_proc_float\assembler\labels.h
+
+1387026948 c:\users\eder\desktop\61_nova_subsituicao_proc_float\assembler\veri_comp.h
+
+1386855684 source:c:\users\eder\desktop\61_nova_subsituicao_proc_float\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1387205632 source:c:\users\eder\desktop\61_nova_subsituicao_proc_float\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1387025708 source:c:\users\eder\desktop\61_nova_subsituicao_proc_float\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1387049898 source:c:\users\eder\desktop\61_nova_subsituicao_proc_float\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1387022750 source:d:\dropbox\doutorado\compactação de sinais\estimacao_frequencia\pll_floatingpoint\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1387019204 d:\dropbox\doutorado\compactação de sinais\estimacao_frequencia\pll_floatingpoint\assembler\eval.h
+
+1387201908 d:\dropbox\doutorado\compactação de sinais\estimacao_frequencia\pll_floatingpoint\assembler\t2t.h
+
+1387022152 d:\dropbox\doutorado\compactação de sinais\estimacao_frequencia\pll_floatingpoint\assembler\variaveis.h
+
+1386842074 d:\dropbox\doutorado\compactação de sinais\estimacao_frequencia\pll_floatingpoint\assembler\labels.h
+
+1387023348 d:\dropbox\doutorado\compactação de sinais\estimacao_frequencia\pll_floatingpoint\assembler\veri_comp.h
+
+1386852084 source:d:\dropbox\doutorado\compactação de sinais\estimacao_frequencia\pll_floatingpoint\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1387202032 source:d:\dropbox\doutorado\compactação de sinais\estimacao_frequencia\pll_floatingpoint\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1387022108 source:d:\dropbox\doutorado\compactação de sinais\estimacao_frequencia\pll_floatingpoint\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1387046298 source:d:\dropbox\doutorado\compactação de sinais\estimacao_frequencia\pll_floatingpoint\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1387022750 source:c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_2\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1387019204 c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_2\assembler\eval.h
+
+1387201908 c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_2\assembler\t2t.h
+
+1387022152 c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_2\assembler\variaveis.h
+
+1386842074 c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_2\assembler\labels.h
+
+1387023348 c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_2\assembler\veri_comp.h
+
+1386852084 source:c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_2\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1387202032 source:c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_2\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1387022108 source:c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_2\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1387046298 source:c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_2\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1397588871 source:c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_3\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1387019204 c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_3\assembler\eval.h
+
+1397588901 c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_3\assembler\t2t.h
+
+1397588927 c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_3\assembler\variaveis.h
+
+1386842074 c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_3\assembler\labels.h
+
+1387023348 c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_3\assembler\veri_comp.h
+
+1386852084 source:c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_3\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1387022108 source:c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_3\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1387046298 source:c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_3\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1397588778 source:c:\users\eder\desktop\67_novo_teste_so_pll_float_arredondamentos_3\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1398199600 source:c:\users\eder\desktop\67_arredondamenos_4_aumento-mantissa\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1398199834 c:\users\eder\desktop\67_arredondamenos_4_aumento-mantissa\assembler\labels.h
+
+1398199676 source:c:\users\eder\desktop\67_arredondamenos_4_aumento-mantissa\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1398199847 c:\users\eder\desktop\67_arredondamenos_4_aumento-mantissa\assembler\t2t.h
+
+1398199883 c:\users\eder\desktop\67_arredondamenos_4_aumento-mantissa\assembler\veri_comp.h
+
+1398199712 source:c:\users\eder\desktop\67_arredondamenos_4_aumento-mantissa\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1398199861 c:\users\eder\desktop\67_arredondamenos_4_aumento-mantissa\assembler\variaveis.h
+
+1398199960 source:c:\users\eder\desktop\67_arredondamenos_4_aumento-mantissa\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1398199834 c:\users\eder\desktop\67_arredondamenos_4_aumento-mantissa\assembler\eval.h
+
+1398199572 source:c:\users\eder\desktop\67_arredondamenos_4_aumento-mantissa\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1398289007 source:c:\users\eder\desktop\67_arredondamenos_4_diminui_mantissa_filtro_but\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1398289105 c:\users\eder\desktop\67_arredondamenos_4_diminui_mantissa_filtro_but\assembler\eval.h
+
+1398289130 c:\users\eder\desktop\67_arredondamenos_4_diminui_mantissa_filtro_but\assembler\t2t.h
+
+1398289143 c:\users\eder\desktop\67_arredondamenos_4_diminui_mantissa_filtro_but\assembler\variaveis.h
+
+1398289117 c:\users\eder\desktop\67_arredondamenos_4_diminui_mantissa_filtro_but\assembler\labels.h
+
+1398289154 c:\users\eder\desktop\67_arredondamenos_4_diminui_mantissa_filtro_but\assembler\veri_comp.h
+
+1398289026 source:c:\users\eder\desktop\67_arredondamenos_4_diminui_mantissa_filtro_but\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1398289649 source:c:\users\eder\desktop\67_arredondamenos_4_diminui_mantissa_filtro_but\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1398289423 source:c:\users\eder\desktop\67_arredondamenos_4_diminui_mantissa_filtro_but\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1398289335 source:c:\users\eder\desktop\67_arredondamenos_4_diminui_mantissa_filtro_but\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1398289026 source:c:\users\bill\desktop\15 - ponto flutuante\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1398289117 c:\users\bill\desktop\15 - ponto flutuante\assembler\labels.h
+
+1398289832 source:c:\users\bill\desktop\15 - ponto flutuante\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1398289130 c:\users\bill\desktop\15 - ponto flutuante\assembler\t2t.h
+
+1398289154 c:\users\bill\desktop\15 - ponto flutuante\assembler\veri_comp.h
+
+1398289423 source:c:\users\bill\desktop\15 - ponto flutuante\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1398289143 c:\users\bill\desktop\15 - ponto flutuante\assembler\variaveis.h
+
+1398289335 source:c:\users\bill\desktop\15 - ponto flutuante\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1398289105 c:\users\bill\desktop\15 - ponto flutuante\assembler\eval.h
+
+1398465676 source:c:\users\bill\desktop\15 - ponto flutuante\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1398468917 source:c:\users\bill\desktop\embarcados\exercicios\17 - ponto flutuante\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1398289105 c:\users\bill\desktop\embarcados\exercicios\17 - ponto flutuante\assembler\eval.h
+
+1398289130 c:\users\bill\desktop\embarcados\exercicios\17 - ponto flutuante\assembler\t2t.h
+
+1398289143 c:\users\bill\desktop\embarcados\exercicios\17 - ponto flutuante\assembler\variaveis.h
+
+1398289117 c:\users\bill\desktop\embarcados\exercicios\17 - ponto flutuante\assembler\labels.h
+
+1398289154 c:\users\bill\desktop\embarcados\exercicios\17 - ponto flutuante\assembler\veri_comp.h
+
+1398289026 source:c:\users\bill\desktop\embarcados\exercicios\17 - ponto flutuante\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1398469016 source:c:\users\bill\desktop\embarcados\exercicios\17 - ponto flutuante\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1398468969 source:c:\users\bill\desktop\embarcados\exercicios\17 - ponto flutuante\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1398289335 source:c:\users\bill\desktop\embarcados\exercicios\17 - ponto flutuante\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1398472518 source:c:\users\luciano\desktop\veriproc\17 - ponto flutuante\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1398292706 c:\users\luciano\desktop\veriproc\17 - ponto flutuante\assembler\eval.h
+
+1398292732 c:\users\luciano\desktop\veriproc\17 - ponto flutuante\assembler\t2t.h
+
+1398292744 c:\users\luciano\desktop\veriproc\17 - ponto flutuante\assembler\variaveis.h
+
+1398292718 c:\users\luciano\desktop\veriproc\17 - ponto flutuante\assembler\labels.h
+
+1398292756 c:\users\luciano\desktop\veriproc\17 - ponto flutuante\assembler\veri_comp.h
+
+1398292628 source:c:\users\luciano\desktop\veriproc\17 - ponto flutuante\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1398472618 source:c:\users\luciano\desktop\veriproc\17 - ponto flutuante\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1398472570 source:c:\users\luciano\desktop\veriproc\17 - ponto flutuante\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1398292936 source:c:\users\luciano\desktop\veriproc\17 - ponto flutuante\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1417748104 source:c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1417748106 c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\assembler\eval.h
+
+1417748114 c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\assembler\t2t.h
+
+1417748120 c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\assembler\variaveis.h
+
+1417748110 c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\assembler\labels.h
+
+1417748124 c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\assembler\veri_comp.h
+
+1417748108 source:c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1417748112 source:c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1417748118 source:c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1418128976 source:c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1417748104 source:c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\zerocrossing\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1417748106 c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\zerocrossing\assembler\eval.h
+
+1417748114 c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\zerocrossing\assembler\t2t.h
+
+1417748120 c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\zerocrossing\assembler\variaveis.h
+
+1417748110 c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\zerocrossing\assembler\labels.h
+
+1417748124 c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\zerocrossing\assembler\veri_comp.h
+
+1417748108 source:c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\zerocrossing\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1417748112 source:c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\zerocrossing\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1417748118 source:c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\zerocrossing\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1418129141 source:c:\users\eder\desktop\17_-_ponto_flutuante-2014-12-05\17 - ponto flutuante\compiladores\zerocrossing\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1417748104 source:c:\users\eder\desktop\85_retoques_finais\85.4_nov_proc_div\compiladores\pll\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1417748106 c:\users\eder\desktop\85_retoques_finais\85.4_nov_proc_div\compiladores\pll\assembler\eval.h
+
+1417748114 c:\users\eder\desktop\85_retoques_finais\85.4_nov_proc_div\compiladores\pll\assembler\t2t.h
+
+1417748120 c:\users\eder\desktop\85_retoques_finais\85.4_nov_proc_div\compiladores\pll\assembler\variaveis.h
+
+1417748110 c:\users\eder\desktop\85_retoques_finais\85.4_nov_proc_div\compiladores\pll\assembler\labels.h
+
+1417748124 c:\users\eder\desktop\85_retoques_finais\85.4_nov_proc_div\compiladores\pll\assembler\veri_comp.h
+
+1417748108 source:c:\users\eder\desktop\85_retoques_finais\85.4_nov_proc_div\compiladores\pll\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1417748112 source:c:\users\eder\desktop\85_retoques_finais\85.4_nov_proc_div\compiladores\pll\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1417748118 source:c:\users\eder\desktop\85_retoques_finais\85.4_nov_proc_div\compiladores\pll\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1418129141 source:c:\users\eder\desktop\85_retoques_finais\85.4_nov_proc_div\compiladores\pll\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1417748104 source:c:\users\eder\desktop\85_retoques_finais\85.6_nov_proc_div_mant_maior\compiladores\pll\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1417748106 c:\users\eder\desktop\85_retoques_finais\85.6_nov_proc_div_mant_maior\compiladores\pll\assembler\eval.h
+
+1417748114 c:\users\eder\desktop\85_retoques_finais\85.6_nov_proc_div_mant_maior\compiladores\pll\assembler\t2t.h
+
+1417748120 c:\users\eder\desktop\85_retoques_finais\85.6_nov_proc_div_mant_maior\compiladores\pll\assembler\variaveis.h
+
+1417748110 c:\users\eder\desktop\85_retoques_finais\85.6_nov_proc_div_mant_maior\compiladores\pll\assembler\labels.h
+
+1417748124 c:\users\eder\desktop\85_retoques_finais\85.6_nov_proc_div_mant_maior\compiladores\pll\assembler\veri_comp.h
+
+1417748108 source:c:\users\eder\desktop\85_retoques_finais\85.6_nov_proc_div_mant_maior\compiladores\pll\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1417748112 source:c:\users\eder\desktop\85_retoques_finais\85.6_nov_proc_div_mant_maior\compiladores\pll\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1417748118 source:c:\users\eder\desktop\85_retoques_finais\85.6_nov_proc_div_mant_maior\compiladores\pll\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1418920168 source:c:\users\eder\desktop\85_retoques_finais\85.6_nov_proc_div_mant_maior\compiladores\pll\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1417748108 source:c:\users\luciano\desktop\compressor\software\proc_ip\software\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1417748110 c:\users\luciano\desktop\compressor\software\proc_ip\software\assembler\labels.h
+
+1417748112 source:c:\users\luciano\desktop\compressor\software\proc_ip\software\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1417748114 c:\users\luciano\desktop\compressor\software\proc_ip\software\assembler\t2t.h
+
+1420545188 c:\users\luciano\desktop\compressor\software\proc_ip\software\assembler\veri_comp.h
+
+1417748118 source:c:\users\luciano\desktop\compressor\software\proc_ip\software\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1417748120 c:\users\luciano\desktop\compressor\software\proc_ip\software\assembler\variaveis.h
+
+1420567642 source:c:\users\luciano\desktop\compressor\software\proc_ip\software\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1417748106 c:\users\luciano\desktop\compressor\software\proc_ip\software\assembler\eval.h
+
+1420560833 source:c:\users\luciano\desktop\compressor\software\proc_ip\software\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+
+1421377986 source:c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1417748106 c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\eval.h
+
+1417748114 c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\t2t.h
+
+1417748120 c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\variaveis.h
+
+1417748110 c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\labels.h
+
+1421379024 c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\veri_comp.h
+
+1417748108 source:c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1417748112 source:c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1417748118 source:c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1421625544 source:c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+	"mnemonicos.h"
+
+1421064799 source:c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\mnemonicos.c
+	"mnemonicos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1421064766 c:\users\luciano\desktop\compressor\compressor\proc_ip\software\assembler\mnemonicos.h
+
+1421377986 source:c:\users\luciano\desktop\proc\proc_ip\software\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1417748106 c:\users\luciano\desktop\proc\proc_ip\software\assembler\eval.h
+
+1417748114 c:\users\luciano\desktop\proc\proc_ip\software\assembler\t2t.h
+
+1417748120 c:\users\luciano\desktop\proc\proc_ip\software\assembler\variaveis.h
+
+1417748110 c:\users\luciano\desktop\proc\proc_ip\software\assembler\labels.h
+
+1421379024 c:\users\luciano\desktop\proc\proc_ip\software\assembler\veri_comp.h
+
+1417748108 source:c:\users\luciano\desktop\proc\proc_ip\software\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1421064799 source:c:\users\luciano\desktop\proc\proc_ip\software\assembler\mnemonicos.c
+	"mnemonicos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1421064766 c:\users\luciano\desktop\proc\proc_ip\software\assembler\mnemonicos.h
+
+1417748112 source:c:\users\luciano\desktop\proc\proc_ip\software\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1417748118 source:c:\users\luciano\desktop\proc\proc_ip\software\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1422718392 source:c:\users\luciano\desktop\proc\proc_ip\software\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+	"mnemonicos.h"
+
+1424112364 source:c:\users\luciano\desktop\20-final\proc_ip\software\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1417744506 c:\users\luciano\desktop\20-final\proc_ip\software\assembler\eval.h
+
+1417744514 c:\users\luciano\desktop\20-final\proc_ip\software\assembler\t2t.h
+
+1417744520 c:\users\luciano\desktop\20-final\proc_ip\software\assembler\variaveis.h
+
+1417744510 c:\users\luciano\desktop\20-final\proc_ip\software\assembler\labels.h
+
+1421375424 c:\users\luciano\desktop\20-final\proc_ip\software\assembler\veri_comp.h
+
+1417744508 source:c:\users\luciano\desktop\20-final\proc_ip\software\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1421061199 source:c:\users\luciano\desktop\20-final\proc_ip\software\assembler\mnemonicos.c
+	"mnemonicos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1421061166 c:\users\luciano\desktop\20-final\proc_ip\software\assembler\mnemonicos.h
+
+1417744512 source:c:\users\luciano\desktop\20-final\proc_ip\software\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1417744518 source:c:\users\luciano\desktop\20-final\proc_ip\software\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1422714792 source:c:\users\luciano\desktop\20-final\proc_ip\software\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+	"mnemonicos.h"
+
+1424115964 source:c:\users\melis\desktop\sapho_v3\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1417748106 c:\users\melis\desktop\sapho_v3\assembler\eval.h
+
+1417748114 c:\users\melis\desktop\sapho_v3\assembler\t2t.h
+
+1417748120 c:\users\melis\desktop\sapho_v3\assembler\variaveis.h
+
+1417748110 c:\users\melis\desktop\sapho_v3\assembler\labels.h
+
+1421379024 c:\users\melis\desktop\sapho_v3\assembler\veri_comp.h
+
+1421064800 source:c:\users\melis\desktop\sapho_v3\assembler\mnemonicos.c
+	"mnemonicos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1421064766 c:\users\melis\desktop\sapho_v3\assembler\mnemonicos.h
+
+1417748112 source:c:\users\melis\desktop\sapho_v3\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1425384524 source:c:\users\melis\desktop\sapho_v3\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1425384554 source:c:\users\melis\desktop\sapho_v3\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1425384472 source:c:\users\melis\desktop\sapho_v3\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+	"mnemonicos.h"
+
+1424115964 source:c:\users\melis\desktop\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1570216009 c:\users\melis\desktop\assembler\eval.h
+
+1417748114 c:\users\melis\desktop\assembler\t2t.h
+
+1417748120 c:\users\melis\desktop\assembler\variaveis.h
+
+1417748110 c:\users\melis\desktop\assembler\labels.h
+
+1421379024 c:\users\melis\desktop\assembler\veri_comp.h
+
+1425384524 source:c:\users\melis\desktop\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1421064800 source:c:\users\melis\desktop\assembler\mnemonicos.c
+	"mnemonicos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1421064766 c:\users\melis\desktop\assembler\mnemonicos.h
+
+1417748112 source:c:\users\melis\desktop\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1425384554 source:c:\users\melis\desktop\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1425384472 source:c:\users\melis\desktop\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+	"mnemonicos.h"
+
+1424115964 source:c:\users\melis\documents\github\sapho\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1570216009 c:\users\melis\documents\github\sapho\assembler\eval.h
+
+1417748114 c:\users\melis\documents\github\sapho\assembler\t2t.h
+
+1417748120 c:\users\melis\documents\github\sapho\assembler\variaveis.h
+
+1417748110 c:\users\melis\documents\github\sapho\assembler\labels.h
+
+1421379024 c:\users\melis\documents\github\sapho\assembler\veri_comp.h
+
+1425384524 source:c:\users\melis\documents\github\sapho\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1421064800 source:c:\users\melis\documents\github\sapho\assembler\mnemonicos.c
+	"mnemonicos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1421064766 c:\users\melis\documents\github\sapho\assembler\mnemonicos.h
+
+1417748112 source:c:\users\melis\documents\github\sapho\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1425384554 source:c:\users\melis\documents\github\sapho\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1425384472 source:c:\users\melis\documents\github\sapho\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+	"mnemonicos.h"
+
+1583888087 source:c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1583888087 c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\eval.h
+
+1583888088 c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\t2t.h
+
+1583888088 c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\variaveis.h
+
+1583888087 c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\labels.h
+
+1583888088 c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\veri_comp.h
+
+1583888087 source:c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1583888088 source:c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\mnemonicos.c
+	"mnemonicos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1583888088 c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\mnemonicos.h
+
+1583888088 source:c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1583888088 source:c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1583888088 source:c:\users\luccaviccini\desktop\ufjf\ic\vic_cern\nipscernufjf\sapho\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+	"mnemonicos.h"
+
+1588781237 source:c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1588781237 c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\labels.h
+
+1588781237 source:c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\mnemonicos.c
+	"mnemonicos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1588781237 c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\mnemonicos.h
+
+1588781237 source:c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1588781237 c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\t2t.h
+
+1590331112 c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\veri_comp.h
+
+1588781237 source:c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1588781237 c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\variaveis.h
+
+1590331112 source:c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1588781237 c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\eval.h
+
+1590331653 source:c:\users\luccaviccini\desktop\sapho-sapho_lucca\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+	"mnemonicos.h"
+
+1595955098 source:c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1595955098 c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\eval.h
+
+1595955098 c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\t2t.h
+
+1595955098 c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\variaveis.h
+
+1595955098 c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\labels.h
+
+1595955098 c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\veri_comp.h
+
+1595955098 source:c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1595955098 source:c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\mnemonicos.c
+	"mnemonicos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1595955098 c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\mnemonicos.h
+
+1595955098 source:c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1595955098 source:c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1595972384 source:c:\users\luccaviccini\desktop\ufjf\ic\ic_luciano\nipscernufjf\sapho\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+	"mnemonicos.h"
+
+1607390069 source:c:\users\lucca\documents\github\sapho\assembler\eval.c
+	"eval.h"
+	"t2t.h"
+	"variaveis.h"
+	"labels.h"
+	"veri_comp.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1606836532 c:\users\lucca\documents\github\sapho\assembler\eval.h
+
+1607091788 c:\users\lucca\documents\github\sapho\assembler\t2t.h
+
+1607091788 c:\users\lucca\documents\github\sapho\assembler\variaveis.h
+
+1607091788 c:\users\lucca\documents\github\sapho\assembler\labels.h
+
+1607091788 c:\users\lucca\documents\github\sapho\assembler\veri_comp.h
+
+1607390069 source:c:\users\lucca\documents\github\sapho\assembler\veri_comp.c
+	"veri_comp.h"
+	<string.h>
+	<stdio.h>
+	<math.h>
+	"eval.h"
+	"mnemonicos.h"
+
+1607091788 c:\users\lucca\documents\github\sapho\assembler\mnemonicos.h
+
+1607091788 source:c:\users\lucca\documents\github\sapho\assembler\labels.c
+	"labels.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1607091788 source:c:\users\lucca\documents\github\sapho\assembler\mnemonicos.c
+	"mnemonicos.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1607091788 source:c:\users\lucca\documents\github\sapho\assembler\t2t.c
+	"t2t.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	"veri_comp.h"
+
+1607091788 source:c:\users\lucca\documents\github\sapho\assembler\variaveis.c
+	"variaveis.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
