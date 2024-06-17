@@ -1,7 +1,6 @@
 # Enneper: An ASM to MIF Compiler
 
-![Enneper Surface](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/EnneperSurface.jpg/320px-EnneperSurface.jpg)
-*Image source: Wikimedia Commons*
+![Enneper Surface](Enneper_Surface.png)
 
 ## Overview
 
